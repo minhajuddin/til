@@ -1,5 +1,11 @@
-  - subdomain based on GitHub username
-  - publishing TILs
-  - comments
-  - voting
-  - emailing a list of interesting TILs based on tags/authors
+- comments
+- voting
+- emailing a list of interesting TILs based on tags/authors
+
+- First line is the title
+- Rest is the body
+
+- A user should be able to add tags to a TIL
+- Every TIL should be tweeted out as soon as it is created
+
+- TIL is an app which allows you to publish your daily discoveries through your GitHub repository
